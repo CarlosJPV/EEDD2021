@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="C:\Users\lucas\OneDrive\Documentos\EEDD2021\EEDD2021.workspace">
+  <int Value="2" Name="m_selectedTab"/>
+  <wxString Value="C:\Users\lucas\OneDrive\Documentos\EEDD2021\EEDD2021.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="C:\Users\lucas\Downloads\PECLHernandezGonzalezSergio\PECLHernandezGonzalezSergio\Arbol.cpp" Name="FileName"/>
+      <int Value="113" Name="FirstVisibleLine"/>
+      <int Value="133" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\lucas\Downloads\PECLHernandezGonzalezSergio\PECLHernandezGonzalezSergio\Arbol.hpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="18" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\lucas\Downloads\PECLHernandezGonzalezSergio\PECLHernandezGonzalezSergio\Gestor.cpp" Name="FileName"/>
+      <int Value="285" Name="FirstVisibleLine"/>
+      <int Value="311" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\lucas\Downloads\PECLHernandezGonzalezSergio\PECLHernandezGonzalezSergio\Gestor.hpp" Name="FileName"/>
+      <int Value="30" Name="FirstVisibleLine"/>
+      <int Value="52" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\lucas\Downloads\PECLHernandezGonzalezSergio\PECLHernandezGonzalezSergio\main.cpp" Name="FileName"/>
+      <int Value="108" Name="FirstVisibleLine"/>
+      <int Value="128" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+  <wxString Value="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.inc;*.mm;*.m;*.xrc;*.plist;*.txt" Name="m_findInFilesMask"/>
+</Session>
